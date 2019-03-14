@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.berry64.custom.answerbot</groupId>
+  <artifactId>AnswerBot</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190314124607</lastUpdated>
+  </versioning>
+</metadata>
