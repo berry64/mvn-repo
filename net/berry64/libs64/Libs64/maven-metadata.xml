@@ -3,10 +3,9 @@
   <groupId>net.berry64.libs64</groupId>
   <artifactId>Libs64</artifactId>
   <versioning>
-    <release>2.0-INTERNAL</release>
     <versions>
-      <version>2.0-INTERNAL</version>
+      <version>2.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20191206055629</lastUpdated>
+    <lastUpdated>20191206065541</lastUpdated>
   </versioning>
 </metadata>
